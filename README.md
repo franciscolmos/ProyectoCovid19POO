@@ -1,6 +1,6 @@
 # PROYECTO COVID / Primera tarea
 ## Pasos a seguir para tener este proyecto en mi computadora:
- - Deberemo tener instalado **Git** en nuestra computadora. Si no lo tienes puedes hacerlo con el siguiente link: 
+ - Deberemos tener instalado **Git** en nuestra computadora. Si no lo tienes puedes hacerlo con el siguiente link: 
   [DOWNLOAD GIT](https://git-scm.com/downloads)
  - Una vez instalado deberás pararte en la carpeta donde desees descargar el proyecto y escribir: 
     -  >$ git clone https://github.com/franciscolmos/ProyectoCovid19POO.git
